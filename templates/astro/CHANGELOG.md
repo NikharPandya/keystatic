@@ -1,5 +1,11 @@
 # @keystatic/templates-astro
 
+## 0.0.7
+
+### Patch Changes
+
+- 14c8d90b: Update to @astrojs/markdoc version that fixes a known bug
+
 ## 0.0.6
 
 ### Patch Changes
